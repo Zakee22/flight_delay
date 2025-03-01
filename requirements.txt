@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+category_encoders
+scikit-learn
+catboost
